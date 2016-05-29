@@ -1,0 +1,25 @@
+{
+  "name": "mewrouter",
+  "version": "0.0.0",
+  "description": "OpenMew router",
+  "main": "router.js",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "check-types": "^7.0.0",
+    "event-emitter": "^0.3.4",
+    "highland": "^2.8.1",
+    "requirejs": "^2.2.0",
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "isomorphic",
+    "router",
+    "entity"
+  ],
+  "author": "Kevin de Carvalho & Francois Cadeillan",
+  "license": "MPL-2.0"
+}
